@@ -27,3 +27,8 @@ Thumbs.db
 # Exclude Sidekick folder
 Sidekick/
 
+# Large media files (use GitHub Releases instead)
+*.mp4
+*.mov
+*.avi
+

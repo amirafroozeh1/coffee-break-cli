@@ -6,18 +6,10 @@ A friendly terminal assistant that reminds you to take coffee breaks while codin
 
 <div align="center">
   
-  
-  *Watch the Coffee Break Terminal in action! See automatic reminders, coffee animations, and interactive commands.*
-  
-  **📹 [View Demo Video](src/resource/coffee_break.mp4)**
+
+  **📹 [View Demo Video](https://github-production-user-asset-6210df.s3.amazonaws.com/7267026/514902713-1303d20e-9f4b-4b92-a136-d00b561adf4c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251116T173838Z&X-Amz-Expires=300&X-Amz-Signature=8c048983d4c15d9b092df8d33572738d6c866666becabec1a4be577eb6732aa9&X-Amz-SignedHeaders=host)**
   
 </div>
-
-> **Tip:** To embed the video properly on GitHub, after pushing, edit this README and:
-> 1. Go to any GitHub issue or PR comment
-> 2. Drag and drop `coffee_break.mp4` into the comment box
-> 3. GitHub will generate a URL like `https://github.com/user-attachments/assets/...`
-> 4. Replace the demo section with that URL
 
 ## ✨ Features
 
