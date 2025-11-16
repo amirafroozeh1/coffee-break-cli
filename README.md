@@ -2,6 +2,12 @@
 
 A friendly terminal assistant that reminds you to take coffee breaks while coding, with project analysis and memory features.
 
+## 🎬 Demo
+
+https://github.com/amirafroozeh1/coffee-break-cli/assets/coffee_break.mp4
+
+> Watch the Coffee Break Terminal in action! See automatic reminders, coffee animations, and interactive commands.
+
 ## ✨ Features
 
 ### ☕ Coffee Break Reminders
@@ -140,7 +146,8 @@ coffee_break_cli/
 │   ├── shell.rs     # Safe shell command execution
 │   ├── watcher.rs   # File system watcher
 │   └── resource/
-│       └── coffee_icon.png
+│       ├── coffee_icon.png    # Icon for notifications
+│       └── coffee_break.mp4   # Demo video
 ├── Cargo.toml
 └── README.md
 ```
