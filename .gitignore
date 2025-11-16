@@ -1,0 +1,29 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Memory file (user-specific)
+.coffee_break_memory.json
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Exclude Sidekick folder
+Sidekick/
+
