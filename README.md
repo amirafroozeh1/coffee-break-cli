@@ -40,8 +40,8 @@ A friendly terminal assistant that reminds you to take coffee breaks while codin
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd coffee_break_cli
+git clone git@github.com:amirafroozeh1/coffee-break-cli.git
+cd coffee-break-cli
 
 # Build the project
 cargo build --release
@@ -163,6 +163,14 @@ cargo build
 cargo run -- -i 1  # Use 1-minute intervals for testing
 ```
 
+## 🎯 Why Coffee Break Terminal?
+
+Taking regular breaks is essential for:
+- 🧠 **Better Focus** - Regular breaks improve concentration and productivity
+- 💪 **Health** - Reduces eye strain and prevents burnout
+- 🎨 **Creativity** - Stepping away helps solve complex problems
+- ⚡ **Energy** - Maintains high energy levels throughout the day
+
 ## 📄 License
 
 MIT License - Feel free to use and modify!
@@ -171,9 +179,18 @@ MIT License - Feel free to use and modify!
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+### Ideas for Contributions
+- Add support for Linux notifications
+- Integrate with productivity tracking tools
+- Add customizable break messages
+- Support for different types of breaks (short/long)
+- Integration with local LLMs for the `explain` command
+
 ## 🙏 Acknowledgments
 
 Made with ☕ and ❤️
+
+Special thanks to the Rust community for the amazing tools and libraries.
 
 ---
 
